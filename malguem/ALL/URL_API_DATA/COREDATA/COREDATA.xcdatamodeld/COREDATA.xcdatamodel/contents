@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20D91" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="PAY_INFO" representedClassName="PAY_INFO" syncable="YES" codeGenerationType="class">
+        <attribute name="b_name" optional="YES" attributeType="String"/>
+        <attribute name="b_num" optional="YES" attributeType="String"/>
+        <attribute name="birth" optional="YES" attributeType="String"/>
+        <attribute name="c_cvc" optional="YES" attributeType="String"/>
+        <attribute name="c_date" optional="YES" attributeType="String"/>
+        <attribute name="c_name" optional="YES" attributeType="String"/>
+        <attribute name="c_num1" optional="YES" attributeType="String"/>
+        <attribute name="c_num2" optional="YES" attributeType="String"/>
+        <attribute name="c_num3" optional="YES" attributeType="String"/>
+        <attribute name="c_num4" optional="YES" attributeType="String"/>
+        <attribute name="mb_name" optional="YES" attributeType="String"/>
+        <attribute name="password" optional="YES" attributeType="String"/>
+        <attribute name="signature" optional="YES" attributeType="Binary"/>
+        <attribute name="type" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="PAY_INFO" positionX="-63" positionY="-18" width="128" height="239"/>
+    </elements>
+</model>

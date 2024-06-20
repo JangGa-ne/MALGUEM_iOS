@@ -1,0 +1,42 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'seorak' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for malguem
+
+  # FIREBASE
+  pod 'Firebase/Core'
+  pod 'Firebase/Messaging'
+
+  # 통신
+  pod 'Alamofire', '4.9'
+  
+  # 그래프
+  pod 'Charts'
+  
+  # 싸인
+  pod 'EPSignature'
+end
+
+target 'malguem' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for malguem
+
+  # FIREBASE
+  pod 'Firebase/Core'
+  pod 'Firebase/Messaging'
+
+  # 통신
+  pod 'Alamofire', '4.9'
+  
+  # 그래프
+  pod 'Charts'
+  
+  # 싸인
+  pod 'EPSignature'
+end

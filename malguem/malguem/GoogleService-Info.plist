@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>36311011570-9tnv4j11vquplgnnq0vsed6eug19d16o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.36311011570-9tnv4j11vquplgnnq0vsed6eug19d16o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>36311011570-omb4gdk02f5h3vm6k84vuo2ml7abb1fu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAkfG3NQg-L3l3rzpO_M_dlGDLiV6ah1zk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>36311011570</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>me.uic.eum.malguem</string>
+	<key>PROJECT_ID</key>
+	<string>malguem-5710f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>malguem-5710f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:36311011570:ios:4ae1a05a77113659</string>
+	<key>DATABASE_URL</key>
+	<string>https://malguem-5710f.firebaseio.com</string>
+</dict>
+</plist>

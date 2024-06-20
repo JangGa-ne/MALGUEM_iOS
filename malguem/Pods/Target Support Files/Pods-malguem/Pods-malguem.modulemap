@@ -1,0 +1,6 @@
+framework module Pods_malguem {
+  umbrella header "Pods-malguem-umbrella.h"
+
+  export *
+  module * { export * }
+}
